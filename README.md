@@ -19,7 +19,7 @@
 - API: PokeAPI para buscar os dados dos Pokemons
 
 ## :rocket: Deploy:
- - <a>Projeto Disponivel</a>
+ - <a href = "https://carolfons.github.io/pokemon-explorer/">Projeto Disponivel</a>
 
 ## 🔍 Exemplo de Uso:
 1. Insira o nome do Pokemon que deseja pesquisar no campo de pesquisa
