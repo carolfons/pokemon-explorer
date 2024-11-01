@@ -46,7 +46,13 @@
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
 
 ## 🖼️ Imagens do Projeto: 
+<p align =  "center"> 
+ <img src = "https://github.com/carolfons/pokemon-explorer/blob/main/assets/pagina-inicial.png" width = "auto" height = "200"/>
+ <img src = "https://github.com/carolfons/pokemon-explorer/blob/main/assets/pesquisa-1.png" width = "auto" height = "200"/>
+ <img src = "https://github.com/carolfons/pokemon-explorer/blob/main/assets/pesquisa-2.png" width = "auto" height = "200"/>
+ <img src = "https://github.com/carolfons/pokemon-explorer/blob/main/assets/error.png" width = "auto" height = "200"/>
 
+</p>
 
 
 --- 
